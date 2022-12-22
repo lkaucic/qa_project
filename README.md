@@ -2,9 +2,9 @@
 
 keywords: Python, Selenium, Browserstack, Threads
 
-- There are 5 test cases written in Selenium (Python) and all of them are connected to Browserstack
-- In each Python file there are 5 configurations that run parallel on Browserstack (2 on windows, 1 on OS X, one on Android and one on iOS)
-- Once tests are run, status of each test case shows on browserstack dashboard, where report can be generated
+- There are 5 test cases written in Selenium (Python) and all of them are connected to the Browserstack
+- In each Python file there are 5 configurations that run parallel on Browserstack (2 on windows, 1 on OS X, 1 on Android and 1 on iOS)
+- Once tests are run, status of each test case is shown on Browserstack dashboard, where report can be generated
 
 - test were run on the following configurations using browserstack (configurations were chosen depending on the trend found on https://gs.statcounter.com/browser-version-market-share):  
 
