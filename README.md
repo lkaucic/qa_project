@@ -6,13 +6,13 @@ technologies: Python, Selenium, Browserstack
 - In each Python file there are 5 configurations that run parallel on Browserstack (2 on windows, 1 on OS X, one on Android and one on iOS)
 - Once tests are run, status of each test case shows on browserstack dashboard, where report can be generated
 
-- test were run on the following configurations using browserstack (configurations were chosen depending on the trend found on https://gs.statcounter.com/browser-version-market-share):
+- test were run on the following configurations using browserstack (configurations were chosen depending on the trend found on https://gs.statcounter.com/browser-version-market-share):  
 
---> Windows 10 - Chrome 107.0
---> Windows 10 - Edge 107
---> OS X Ventura - Safari 16
---> Android 11 - Samsung Galaxy S20 - Chrome
---> iOS 15.5 - iPhone 13 Pro - Safari
+--> Windows 10 - Chrome 107.0  
+--> Windows 10 - Edge 107  
+--> OS X Ventura - Safari 16  
+--> Android 11 - Samsung Galaxy S20 - Chrome  
+--> iOS 15.5 - iPhone 13 Pro - Safari  
 
 Links to public Browserstack dashboards:
 [TC-1](https://automate.browserstack.com/dashboard/v2/public-build/Y2VHWkZTZG1IUXhldTNiYjA2M2ZqSm1Lc2duMXZ1WktLaFRDVnVKaVBZRlJtcnMzQnIrdGhjc2ZZVVIyQnVRSURZelNhcHQrT0hvc1JNRHQvTmhFalE9PS0tSDNXUHFFdERhdWRCdnBnbmhPQlJsdz09--8c06e1f17b90c08db16b8043b8660d4100c9a83d)
